@@ -1,0 +1,24 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE & Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Backend ignore
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.factorypath
+
+# Frontend ignore
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
